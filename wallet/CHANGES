@@ -1,4 +1,12 @@
-v10.04-v10.07
+v10.11-v10.12
+
+* Update sanity check for network fee.
+
+v10.09-v10.10
+
+* Target Android 14.
+
+v10.04-v10.08
 
 * Provide reproducible reference build via buildah, Docker or Podman.
 
